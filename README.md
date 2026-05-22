@@ -81,18 +81,6 @@ git clone https://github.com/your-username/gradify.git
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your project here.
-
-Example:
-
-```md
-![Home Page](screenshots/home.png)
-![Planner](screenshots/planner.png)
-```
-
----
 
 ## 🔮 Future Improvements
 
