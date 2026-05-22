@@ -107,7 +107,7 @@ Example:
 
 ## 👩‍💻 Author
 
-Developed by **Twinkle Arora**
+Developed by **Twinkle Arora,Navya Choudhary and Vanshika Satija**
 
 ---
 
